@@ -46,21 +46,54 @@ That's All Basic About Git
 ## Basic Command 
 Before we get start you need to setup git download if not . 
 let's get started .
+ 1. Learn About the following commands .
+ 
+    a. git add file_path && git add . ( diffrent between both )
 
-1. The First thing you need to do is .
+    b. git commit -m "msg" ( Learn in deep )
 
-    a. Create a Repository : Goto This Like https://github.com/new
+    c. git remote -v
 
-    ![alt text](https://github.com/saharsh-solanki/github-roadmap/blob/main/image/create-repo.jpg?raw=true)
+    e. git init 
+
+    f. git push origin branch_name
+
+    g. git pull origin branch_name 
+
+    h. git status 
+
+    i. git diff 
+
+    j. git log 
+
+2. Advance , You can learn this things in advance 
+
+    a. git commit --amend 
+
+    b. rebase
+
+    c. git merge 
+
+    d. git merge --abort 
+
+    e. git merge --continue
+
+    f. revert 
+
+    g. how to create PR ( pull requests)
+
+    h. how to rebase branch 
+
+    i. working with multiple branch 
+
+    j. revert chnages after commiting 
+
+    k. delete a branch 
+
+    l. keep learning 
 
 
-    b. Enter basic details and Create it .
 
-    c. You can chose Public for now if you want yo create public repo 
-
-    d. That's it just click on create repository button. 
-
-    c. You will some thing like this 
 
 
 # Time Management 
