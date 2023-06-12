@@ -117,3 +117,16 @@ For Learning about theory you Will Have 1 Day . But Why you should read theory  
 2 Day's To learn advance command 
 
 You Just Need 5 Days to learn git 
+
+
+# Scenarios
+* You are collaborating with another developer on a project, and both of you have made conflicting changes to the same file. Your task is to resolve the merge conflict and ensure the final code incorporates both sets of changes seamlessly.
+
+* You have made a commit that introduced a bug or unwanted changes to the project. Your task is to revert the specific commit and roll back the code to the state before that commit was made.
+
+* Your project includes submodules that are separate Git repositories. Your task is to add a new submodule, update an existing submodule to a specific commit, or remove a submodule from the project.
+
+* You are working on a large project with a team, following a collaborative branching model like Gitflow. Your task is to create feature branches, hotfix branches, and release branches as per the established workflow, ensuring smooth collaboration and integration of code changes.
+
+* You want to automate certain actions or enforce specific checks whenever certain Git events occur, such as pre-commit or post-receive. Your task is to set up and configure Git hooks to trigger custom scripts or perform validations during these events.
+   
