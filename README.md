@@ -92,7 +92,17 @@ let's get started .
 
     l. keep learning 
 
+    m. stash
 
+    n. config
+
+    o. restore
+
+    P. authentication using ssh , token and username password
+
+    r. checkout
+ 
+    s. cherry-pick
 
 
 
